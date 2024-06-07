@@ -1,0 +1,2 @@
+scenario 1  open make my trip
+scenario 2 book ticket for bus
